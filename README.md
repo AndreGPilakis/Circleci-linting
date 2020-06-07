@@ -4,6 +4,8 @@
 
 Configuration for the application can be found in `config/Config.js`
 
+This is a basic project to demonstrate circleci pipeline usage and linting.
+
 |Value|environment variable|default|Description|
 |-|-|-|-|
 |DB|MONGO_URL|`mongodb://localhost:27017/todos`|The url the application will connect to mongodb on|
